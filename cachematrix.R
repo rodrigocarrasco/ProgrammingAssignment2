@@ -1,9 +1,9 @@
 ######################################################################################
 #Rodrigo Carrasco
+# 8cf0c701097515e47840bcb9b7510631edb7c87f
 #set the value of the vector
 #get the value of the vector
-#set the value of the mean
-#get the value of the mean
+
 
 makeCacheMatrix <- function(x = matrix()) 
 {
