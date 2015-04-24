@@ -1,6 +1,5 @@
 ######################################################################################
 #Rodrigo Carrasco
-# 95580d2d20ff6e0bcdda81ff5a4c6ef8da91a058
 #set the value of the vector
 #get the value of the vector
 
