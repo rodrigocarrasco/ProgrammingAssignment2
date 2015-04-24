@@ -18,7 +18,7 @@ makeCacheMatrix <- function(x = matrix())
     set = set, get = get, setinverse = setinverse, getinverse = getinverse)
 }
  
-cacheSolve <- function(x =matrix, ...) 
+cacheSolve <- function(x = matrix(), ...) 
 {
     mtx <- x$getinverse()
     if(!is.null(mtx)) {
