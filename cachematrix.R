@@ -2,7 +2,10 @@
 #Rodrigo Carrasco
 #set the value of the vector
 #get the value of the vector
-
+#Test
+#a<-makeCacheMatrix()
+# a$set(matrix(1:4, 2, 2))  
+#cacheSolve(a)
 
 makeCacheMatrix <- function(x = matrix()) 
 {
